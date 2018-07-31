@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: commons-logging-1.2.jar protostuff-api-1.6.0.jar protostuf
+ f-core-1.6.0.jar spring-core-4.3.10.RELEASE.jar objenesis-1.0.jar pro
+ tostuff-runtime-1.6.0.jar protostuff-collectionschema-1.6.0.jar
+
