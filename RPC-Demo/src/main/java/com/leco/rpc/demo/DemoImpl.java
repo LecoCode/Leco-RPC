@@ -10,6 +10,6 @@ import com.leco.rpc.core.annotations.RpcService;
 @RpcService
 public class DemoImpl implements IDemo {
     public String getName() {
-        return "hello Leco RPC!";
+        return "hello Leco RPC!1";
     }
 }
